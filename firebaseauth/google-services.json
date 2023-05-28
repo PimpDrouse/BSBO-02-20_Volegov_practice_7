@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843524419617",
+    "project_id": "volegov-bsbo-02-20",
+    "storage_bucket": "volegov-bsbo-02-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843524419617:android:03d29d077fbbc510acf360",
+        "android_client_info": {
+          "package_name": "ru.mirea.volegov.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843524419617-knkjb28h3brrc0o86b1vrdkmbnt2q5ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXhK9F8mqoOQzK2Y-c3LMlOgCQcPxU-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843524419617-knkjb28h3brrc0o86b1vrdkmbnt2q5ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
